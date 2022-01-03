@@ -1,0 +1,4 @@
+hasil komparasi dari ketiga metode, untuk paling cepat menggunakan haar_cascade tetapi banyak error,
+metode yg lebih baik meneggunakan opencv tetapi jg masih sedikit error, yang lebih bagus lagi mneggunakan hog linier svm lebih baik dari opencv,
+tetapi eksekusi lebih lambat, di laptop bisa 2s per frame. yang paling akurat menggunakan dlib cnn tetapi di laptop bisa >20s per frame haha...
+sepertinya metode paling cocok pake deep learning opencv (titik tengah keakuratan dan kecepatan)
